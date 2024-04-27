@@ -1,5 +1,5 @@
 _G.CodexUiCustomSettings = {
-CodexSpooferImage = 17305003173, 
+CodexSpooferImage = 17305132704, 
 CodexSpooferText = "Z-Exec", 
 CodexSpooferPoweredBy = "Powered By: \nZBoy & SPDM Team", 
 FloatingIconColor=Color3.fromRGB(25,25,25), 
